@@ -2,7 +2,7 @@
 
 
 - 📒 Cursando Engenharia de Computação na UCS
-- 💻 Estudando Front-end e Python
+- 💻 Estudando Frameworks como Laravel e React
 - 💡 Busco aprimorar meus estudos criando e ajudando em projetos
 
 
