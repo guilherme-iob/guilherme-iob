@@ -2,7 +2,7 @@
 
 -    Trabalhando na Denker Engenharia de Sistemas
 - 📒 Cursando Engenharia de Computação na Universidade de Caxias do Sul
-- 💻 Estudando Frameworks como Laravel e React
+- 💻 Estudando C# e Linux
 - ⌨️ Desenvolvendo API Rest com Laravel e VueJS
 
 
