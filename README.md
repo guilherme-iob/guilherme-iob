@@ -1,8 +1,5 @@
-### Bem-vindo! Eu sou o Guilherme Iob, programador e desenvolvedor web.
+### Bem-vindo! Eu sou o Guilherme, desenvolvedor de software.
 
--    Trabalhando na Denker Engenharia de Sistemas
+-    Trabalhando como programador na Denker Engenharia de Sistemas em Caxias do Sul
 - 📒 Cursando Engenharia de Computação na Universidade de Caxias do Sul
-- 💻 Estudando C# e Linux
-- ⌨️ Desenvolvendo API Rest com Laravel e VueJS
-
 
