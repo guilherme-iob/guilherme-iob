@@ -16,9 +16,9 @@ Atualmente trabalho como **Desenvolvedor de Software na Denker Engenharia de Sis
 
 ## Formação
 
-**Engenharia de Computação** (em andamento)
+**Engenharia de Computação**   
 Universidade de Caxias do Sul — UCS  
-2021–2026
+2021–2026 (em andamento)
 
 ## Contato
 
